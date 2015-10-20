@@ -1,4 +1,4 @@
-# fs-tree
+# fs-ascii-tree
 
 Build an ASCII tree from the file system. 
 

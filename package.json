@@ -1,5 +1,5 @@
 {
-  "name": "fs-tree",
+  "name": "fs-ascii-tree",
   "version": "0.1.0",
   "description": "Create an ASCII tree from the file system.",
   "main": "index.js",
@@ -20,16 +20,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TupleAustin/fs-tree.git"
+    "url": "git+https://github.com/TupleAustin/fs-ascii-tree.git"
   },
   "keywords": [
     "fs",
-    "tree"
+    "tree",
+    "ascii"
   ],
   "author": "Jay Morrow <j.morrow@wearetuple.co>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TupleAustin/fs-tree/issues"
+    "url": "https://github.com/TupleAustin/fs-ascii-tree/issues"
   },
-  "homepage": "https://github.com/TupleAustin/fs-tree#readme"
+  "homepage": "https://github.com/TupleAustin/fs-ascii-tree#readme"
 }
