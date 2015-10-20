@@ -1,0 +1,4 @@
+├─ level1-1
+│  └─ level2.txt
+├─ level1-2.txt
+└─ level1.txt

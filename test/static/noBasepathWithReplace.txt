@@ -1,0 +1,12 @@
+├─ level1-1
+│  └─ level2.txt
+├─ level1-2
+│  ├─ level2-1
+│  │  └─ level3.txt
+│  ├─ level2-2
+│  │  └─ level3.txt
+│  └─ level2.txt
+├─ level1-2.txt
+├─ level1-3
+│  └─ Replacement text
+└─ level1.txt
