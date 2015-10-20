@@ -40,8 +40,8 @@ function buildTree(filteredMatches) {
 
 		item.split(path.sep).forEach(function(part) {
 			typeof dir[part] !== 'object' && (dir[part] = {});
-            dir = dir[part];
-         });
+			dir = dir[part];
+		 });
 	});
 
 	return tree;

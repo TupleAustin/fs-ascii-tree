@@ -2,6 +2,34 @@
 
 Build an ASCII tree from the file system. 
 
+Turn this:
+
+![Folder Structure](./fs.png)
+
+Into this:
+
+    ├─ level1-1
+    │  └─ level2.txt
+    ├─ level1-2
+    │  ├─ level2-1
+    │  │  └─ level3.txt
+    │  ├─ level2-2
+    │  │  └─ level3.txt
+    │  └─ level2.txt
+    ├─ level1-2.txt
+    ├─ level1-3
+    │  ├─ level2-1
+    │  │  └─ level2.txt
+    │  ├─ level2-2
+    │  │  └─ level2.txt
+    │  └─ level2-3
+    │     ├─ level2.txt
+    │     ├─ level3-1
+    │     │  └─ level3.txt
+    │     └─ level3-2
+    │        └─ level3.txt
+    └─ level1.txt
+
 ## Install
 
 ```sh
